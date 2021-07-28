@@ -18,5 +18,6 @@ int main ()
 	cout << num << " é um número primo." << endl;
 	else
 	cout << num << " não é um número primo." << endl;	
-	return 0;
+	return 0; 
+	// Bom dia, tarde ou noite pra quem ta lendo o código
 }
